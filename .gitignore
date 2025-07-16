@@ -1,0 +1,7 @@
+__pycache__/
+uploads/
+*.pdf
+*.txt
+outputs/
+*.pdf
+*.txt
