@@ -1,8 +1,8 @@
 __pycache__/
 .env
 uploads/
-*.pdf
-*.txt
 outputs/
 *.pdf
 *.txt
+*.dox
+*.pnj
